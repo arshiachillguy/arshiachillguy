@@ -1,10 +1,11 @@
-## سلام من Arshia هستم
+## Hello I'm ARSHIA 
 
-توسعه‌دهنده‌ی بک‌اند با تمرکز روی Java و Spring Boot، علاقه‌مند به معماری های پیشرفته و ارتقای مهارت های فنی .
+Back-end developer with a focus on Java and Spring Boot, interested in advanced architectures and upgrading technical skills.
+
 
 ### Sikills 🛠️ 
-- Java | | REST APIs
-- Spring Boot | Spring security 
+- Java | REST APIs
+- Spring Boot | Spring security | Spring Data JPA | Spring Cloud 
 - Git | docker 
 - HTML |  Linux
 
