@@ -5,7 +5,7 @@ Back-end developer with a focus on Java and Spring Boot, interested in advanced 
 
 ### Sikills 🛠️ 
 - Java | REST APIs
-- Spring Boot | Spring security | Spring Data JPA | Spring Cloud 
+- Spring Boot | Spring security | Spring Data JPA | Spring Unit Testing 
 - Git | docker 
 - HTML |  Linux
 
