@@ -24,7 +24,7 @@ Back-end developer with a focus on Java and Spring Boot, interested in advanced 
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=rest&logoColor=white)
 
 ###  GitHub 📊
-![Arshia's GitHub stats](https://github-readme-stats.vercel.app/api?username=arshiachillguy&show_icons=true&theme=radical)
+![Arshia's GitHub stats](![status](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arshiachillguy&theme=radical))
 
 ### Top langs 📈 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arshiachillguy&layout=compact&theme=radical)
@@ -37,7 +37,6 @@ Back-end developer with a focus on Java and Spring Boot, interested in advanced 
 [![Arshia's Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arshiachillguy&theme=radical)](https://github.com/arshiachillguy)
 
 ![commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arshiachillguy&theme=radical)
-![status](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arshiachillguy&theme=radical)
 
 ### send what you need i will make it for you 📫 
 - LinkedIn = https://www.linkedin.com/in/](https://www.linkedin.com/in/arshia-gharedaghi-655224348/
