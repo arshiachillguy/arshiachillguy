@@ -36,6 +36,10 @@ Back-end developer with a focus on Java and Spring Boot, interested in advanced 
 ### GitHub Contribution Chart 📈
 [![Arshia's Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arshiachillguy&theme=radical)](https://github.com/arshiachillguy)
 
+https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arshiachillguy&theme=radical
+
+(https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arshiachillguy&theme=radical)
+
 
 ### send what you need i will make it for you 📫 
 - LinkedIn = https://www.linkedin.com/in/](https://www.linkedin.com/in/arshia-gharedaghi-655224348/
