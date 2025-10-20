@@ -4,8 +4,8 @@ Back-end developer with a focus on Java and Spring Boot, interested in advanced 
 
 
 ### Skills 🛠️ 
-- Java | REST APIs
-- Spring Boot | Spring security | Spring Data JPA | Spring Unit Testing 
+- Java | Python |REST APIs
+- Spring Boot | Spring Data JPA | Spring Unit Testing 
 - Git | docker 
 - HTML |  Linux
 
