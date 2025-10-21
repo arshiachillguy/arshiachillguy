@@ -26,9 +26,6 @@ Back-end developer with a focus on Java and Spring Boot, interested in advanced 
 ###  GitHub 📊
 ![Arshia's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arshiachillguy&theme=radical)
 
-### Commmits summary
-![commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arshiachillguy&theme=radical)
-
 
 ### Top langs 📈 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arshiachillguy&layout=compact&theme=radical)
