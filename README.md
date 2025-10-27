@@ -1,6 +1,6 @@
 ## Hello I'm ARSHIA 
 
-Back-end developer with a focus on Java and Spring Boot, interested in advanced architectures and upgrading technical skills.
+Back-end developer with a focus on Java and Spring Boot and python, interested in advanced architectures and upgrading technical skills.
 
 
 ### Skills 🛠️ 
