@@ -23,6 +23,8 @@ Back-end developer with a focus on Java and Spring Boot and python, interested i
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=rest&logoColor=white)
 
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR-USERNAME)
+
 ###  GitHub 📊
 ![Arshia's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arshiachillguy&theme=radical)
 
