@@ -1,44 +1,51 @@
-## Hello I'm ARSHIA 
-
-Back-end developer with a focus on Java and Spring Boot and python, interested in advanced architectures and upgrading technical skills.
 
 
-### Skills 🛠️ 
-- Java | Python |REST APIs
-- Spring Boot | Spring Data JPA | Spring Unit Testing 
-- Git | docker 
-- HTML |  Linux
+**Backend Developer · Java  / Python**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=rest&logoColor=white)
+I care about how backend systems are **designed, tested, evolved, and maintained** — not just whether they work.
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR-USERNAME)
+Currently focused on:
 
-###  GitHub 📊
-![Arshia's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arshiachillguy&theme=radical)
+* Designing APIs that remain maintainable as systems grow
+* Understanding the trade-offs behind architectural decisions
+* Writing code that is easy to test, change, and reason about
+* Working with relational data and transaction boundaries
+* Exploring performance, scalability, and system design
+* Improving engineering practices through real projects
 
+---
 
-### Top langs 📈 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arshiachillguy&layout=compact&theme=radical)
+### What I'm Learning
 
-### Show Daily & Weekly Activity 🔥
-![🔥 GitHub Streak](https://streak-stats.demolab.com/?user=arshiachillguy&theme=radical)
+**Architecture →** modularity · boundaries · separation of concerns
 
+**Data →** relational modeling · transactions · persistence
 
-### GitHub Contribution Chart 📈
-[![Arshia's Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arshiachillguy&theme=radical)](https://github.com/arshiachillguy)
+**Testing →** unit testing · integration testing · testable design
 
-### send what you need i will make it for you 📫 
-- LinkedIn = https://www.linkedin.com/in/](https://www.linkedin.com/in/arshia-gharedaghi-655224348/
-- Email = arshiagharedaghi9@gmail.com 
+**Systems →** Linux · Docker · networking · deployment
+
+**Engineering →** clean code · refactoring · design patterns · system design
+
+---
+
+### GitHub 
+
+![profile summary](http://github-profile-summary-cards.vercel.app/api/cards/stats?username={arshiachillguy}&theme={great_gatsby})
+
+### Show Daily & Weekly Activity 
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=arshiachillguy&theme=dark&border_radius=5&card_width=499&card_height=200&hide_longest_streak=true)](https://git.io/streak-stats)
+
+---
+
+### Currently Exploring
+
+> How to design backend systems that are easier to understand today
+> and easier to change tomorrow.
+
+---
+
+### Contact 
+
+[Telegram](https://t.me/Lilarshii) · [LinkedIn](https://www.linkedin.com/in/arshia-gharedaghi-655224348/) · [arshiagharedaghi9@gmail.com](mailto:arshiagharedaghi9@gmail.com)
