@@ -31,7 +31,7 @@ Currently focused on:
 
 ### GitHub 
 
-![profile summary](http://github-profile-summary-cards.vercel.app/api/cards/stats?username={arshiachillguy}&theme={great_gatsby})
+![profile summary](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arshiachillguy&theme=great_gatsby)
 
 ### Show Daily & Weekly Activity 
 
